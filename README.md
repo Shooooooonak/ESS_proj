@@ -1,4 +1,4 @@
-# SOC Estimation For Lithium-Ion Batteries Using Particle Swarm Optimization On Adaptive Square-Root Cubature Kalman Filter - Energy Storage Systems Projectx
+# SOC Estimation For Lithium-Ion Batteries Using Particle Swarm Optimization On Adaptive Square-Root Cubature Kalman Filter - Energy Storage Systems Project
 
 ## Project Objectives
 
